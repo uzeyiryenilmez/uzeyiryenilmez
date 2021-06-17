@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uzeyiryenilmez
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Networking Programming
-- 💞️ I’m looking to collaborate on switching and routing configuration projects
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
     by email: uzeyir.yenilmez@outlook.com
 
