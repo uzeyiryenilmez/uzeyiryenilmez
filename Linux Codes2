@@ -1,0 +1,7 @@
+Check an app:  dpkg –l cron 
+
+Check version osf OS: lsb_release  –a 
+
+Give executable permision: chmod u+x ab.sh 
+
+To run auto script : cronetab –e 
