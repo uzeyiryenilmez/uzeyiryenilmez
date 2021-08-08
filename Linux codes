@@ -1,0 +1,71 @@
+tail -f  “,err”  logs.txt    
+
+grep -I “,err”  logs.txt
+cat logs.txt
+tnc 10.0.0.2 -port 4006
+grep -I “10.0.0.4” logs.txt
+
+awk
+sed  
+sed -n '/2020-08-04 14:46:07/,/2020-08-04 14:46:12/p' nms_server.log
+
+sed -n '/2020-09-24 11:16:00/,/2020-09-24 11:20:00/p' log.out
+grep
+nms_server.log | grep "ERROR"
+head -n
+#route
+Nano /etc/network/interface 
+Edit mtu there
+
+Int gi0/0
+Ip nat outside
+Int gi0/1
+Ip nat inside
+Ip nat inside source list 1 interface g0/0 overload
+Access-list permit any
+Ssh uzeyir@10.1.1.1 
+Dns=nameservers 8.8.8.8
+For ubuntu server
+Sudo /etc/init.d/networking restart
+Cat passwd | grep uzeyir
+Lsb_release -a
+Find * | grep text.txt
+Mv file ../dir3
+Ls -a   shows hidden files
+Wget url     download upload 
+
+
+
+Switch#show mac-address-table  
+         Mac Address Table
+-------------------------------------------
+Vlan    Mac Address       Type        Ports
+----    -----------       --------    -----
+  1    0007.ec7d.9e46    DYNAMIC     Fa0/1
+
+#Uptime
+#systemctl status asterix
+#wget http://downloads.asterisk.org 
+#Tar -zxvf asterisk
+./configure
+#pjsip show endpoints
+Extension numbers
+#core show uptime
+#ps aux
+Pssystemctl 
+Scheduled task by linux: $crontab -e
+#minute> hours> day of month> month> day of week> command to run
+
+For Debian/Ubuntu and derivatives.
+$ sudo install -y at
+
+OpenSSL PKI environment
+#sudo apt-get install openssl
+#openssl genrda -aes256 -out CAprivate.key 2048
+Enter pass phrase for CAprivate.key 
+#ls
+#cat CAprivate.key
+:cert# openssl req -new -x509 -key CAprivate.key -sha256 -days 365 -out UzeyirDomainCA.pem
+Enter pass phrase for CAprivate.key
+Register it
+#openssl ciphers -v
