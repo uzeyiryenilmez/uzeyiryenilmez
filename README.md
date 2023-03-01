@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzeyiryenilmez
-- 👀 I’m interested in Azure DevOps
-- 🌱 I’m currently learning pyhton
+- 👀 I’m interested in PHP Web Application
+- 🌱 I’m currently learning PHP Back-End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ezra.yenilmez@outlook.com
 
