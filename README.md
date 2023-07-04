@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uzeyiryenilmez
-- 👀 I’m interested in DevOps, Python, JavaScript, Microsoft Cloud (Azure).
-- 🌱 I’m currently learning Python, JS.
+- 👀 I’m interested in DevOps, Python, JavaScript, C#, Microsoft Cloud (Azure).
+- 🌱 I’m currently learning Python, JS, C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ezra.yenilmez@outlook.com
 
